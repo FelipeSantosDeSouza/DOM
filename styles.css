@@ -1,0 +1,5 @@
+.modo-escuro {
+  background: #222;
+  color: white;
+  transition: all 0.5s ease;
+}
